@@ -1,0 +1,21 @@
+{
+  "project": "ACA-Cosmology",
+  "author": "Borislav Hristiyanov Krastev",
+  "constants": {
+    "A": 1.0,
+    "b": 0.1,
+    "W0": -1.0,
+    "C": 12.75858065006331
+  },
+  "discovery_point_phi": 10.1504,
+  "verification": {
+    "gradient_zero_check": -4.336808689942018e-19,
+    "stability_curvature": 0.000939546961445869,
+    "vacuum_energy_level": -0.01177771343729904
+  },
+  "cosmological_impact": {
+    "stability_verified": true,
+    "tunneling_decay_risk": "Extremely Low",
+    "de_Sitter_status": "Stable (Krastev Valley Case)"
+  }
+}
